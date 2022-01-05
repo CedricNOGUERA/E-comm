@@ -1,0 +1,39 @@
+body {
+	margin: auto;
+	width: 100%;
+}
+
+#menu {
+	float: left;
+	width: 15%;
+}
+
+.card {
+	margin: 1% 0 0 1%;
+}
+.card h4 {
+	color: #1e81b0;
+}
+
+.card img {
+	margin: 5% 0 0 9%;
+	width: 225px;
+	height: 225px;
+}
+
+.qte {
+	border: none;
+	display: block;
+	width: 20%;
+	margin: 0 0 5% 0;
+}
+
+/* .qte:hover {
+	border: 1px solid black;
+} */
+
+.card .btn {
+	background-color: #1e81b0;
+}
+
+/* media */
